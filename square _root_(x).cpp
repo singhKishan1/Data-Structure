@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// using binary search we find square root in log(n) time-complexity.
 int solve(int n){
     int start = 0, end = n;
     int ans = 0;
