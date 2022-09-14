@@ -1,5 +1,4 @@
 // count Nodes in complete Binary tree
-// using binary search --leetcode--problem--.
 // solution of leetcode problem.
 
 #include <iostream>
